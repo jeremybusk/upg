@@ -1,0 +1,1 @@
+psql $PGURI < nuke.sql
